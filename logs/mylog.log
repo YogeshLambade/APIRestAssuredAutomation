@@ -1,0 +1,16 @@
+[INFO ] 2024-03-21 15:17:47.427 [main] APITestingRestAssuredFramework - Create User executed.
+[INFO ] 2024-03-21 15:17:49.729 [main] APITestingRestAssuredFramework - Get User Data executed.
+[INFO ] 2024-03-21 15:17:55.033 [main] APITestingRestAssuredFramework - Update User executed.
+[INFO ] 2024-03-21 15:17:57.692 [main] APITestingRestAssuredFramework - Delete User executed.
+[INFO ] 2024-03-21 15:20:04.737 [main] APITestingRestAssuredFramework_test - Create User executed.
+[INFO ] 2024-03-21 15:20:07.032 [main] APITestingRestAssuredFramework_test - Get User Data executed.
+[INFO ] 2024-03-21 15:20:12.864 [main] APITestingRestAssuredFramework_test - Update User executed.
+[INFO ] 2024-03-21 15:20:15.219 [main] APITestingRestAssuredFramework_test - Delete User executed.
+[INFO ] 2024-03-21 15:39:04.213 [main] APITestingRestAssuredFramework_test - Create User executed.
+[INFO ] 2024-03-21 15:39:06.865 [main] APITestingRestAssuredFramework_test - Get User Data executed.
+[INFO ] 2024-03-21 15:39:11.364 [main] APITestingRestAssuredFramework_test - Update User executed.
+[INFO ] 2024-03-21 15:39:14.025 [main] APITestingRestAssuredFramework_test - Delete User executed.
+[INFO ] 2024-03-21 15:44:22.634 [main] APITestingRestAssuredFramework_test - Create User executed.
+[INFO ] 2024-03-21 15:44:25.785 [main] APITestingRestAssuredFramework_test - Get User Data executed.
+[INFO ] 2024-03-21 15:44:30.450 [main] APITestingRestAssuredFramework_test - Update User executed.
+[INFO ] 2024-03-21 15:44:32.699 [main] APITestingRestAssuredFramework_test - Delete User executed.
